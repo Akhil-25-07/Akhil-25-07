@@ -1,134 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,50:003B20,100:00FF41&text=AKHIL%20NAIDU&fontColor=00FF41&fontSize=55&fontAlignY=45&desc=DEVOPS%20%7C%20CLOUD%20%7C%20AUTOMATION&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Hacker-style DevOps header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=000000&text=AKHIL_NAIDU&fontColor=00FF41&fontSize=48&fontAlignY=50&animation=fadeIn" width="100%" alt="Akhil Naidu terminal portfolio"/>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║          SYSTEM ACCESS : AKHIL NAIDU                ║
-║          ROLE          : ASPIRING DEVOPS ENGINEER   ║
-║          ENVIRONMENT   : LINUX / AWS                ║
-║          STATUS        : LEARNING & BUILDING        ║
-╚══════════════════════════════════════════════════════╝
-```
+### `DEVOPS ENGINEER IN PROGRESS`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;%24+I+am+Akhil+Naidu;%24+sudo+learn+devops;%24+git+commit+-m+%22Keep+Learning%22;%24+docker+build+-t+myapp+.;%24+kubectl+get+pods" alt="Animated terminal commands"/>
+![Linux](https://img.shields.io/badge/Linux-00FF41?style=flat-square\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-00FF41?style=flat-square\&logo=amazonaws\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00FF41?style=flat-square\&logo=docker\&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00FF41?style=flat-square\&logo=kubernetes\&logoColor=black)
 
 </div>
 
 ---
 
-## `root@akhil:~# whoami`
+### `root@akhil:~$ ./initialize.sh`
 
-```bash
-Name        : Akhil Naidu
-Profession  : Aspiring DevOps Engineer
-Education   : B.Com Computers
-Location    : Bengaluru, India
-Interests   : Cloud, Automation, Linux, CI/CD
-Objective   : Build reliable and automated deployments
+```text
+[ OK ] Initializing developer profile...
+[ OK ] Loading Linux environment...
+[ OK ] Connecting to cloud infrastructure...
+[ OK ] Starting automation engine...
+
+USER       : Akhil Naidu
+ROLE       : Aspiring DevOps Engineer
+EDUCATION  : B.Com Computers
+LOCATION   : Bengaluru, India
+MISSION    : Learn. Automate. Deploy. Repeat.
+
+STATUS     : ONLINE
 ```
 
-I am an aspiring DevOps Engineer learning to automate application delivery, manage cloud infrastructure, and deploy containerized applications.
+### `root@akhil:~$ cat about.txt`
 
-My approach is simple: **learn the command, understand the concept, build the project, and document the result.**
+I am an aspiring DevOps Engineer focused on Linux, cloud computing, CI/CD automation, and container orchestration.
+
+I enjoy learning by doing: running commands, troubleshooting errors, building infrastructure, and deploying applications.
+
+```bash
+while true; do
+    learn_something_new
+    build_a_project
+    solve_a_problem
+done
+```
 
 ---
 
-## `root@akhil:~# ls ./skills`
+### `root@akhil:~$ ls /usr/local/skills`
+
+```text
+/usr/local/skills/
+├── linux/
+│   ├── commands
+│   ├── users-and-permissions
+│   └── shell-scripting
+├── version-control/
+│   ├── git
+│   └── github
+├── build-automation/
+│   └── maven
+├── ci-cd/
+│   └── jenkins
+├── containers/
+│   └── docker
+├── orchestration/
+│   └── kubernetes
+├── cloud/
+│   └── aws
+└── programming/
+    └── python
+```
 
 <div align="center">
 
-### [ SYSTEMS ]
-
-<img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"/>
-
-### [ VERSION CONTROL ]
-
-<img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub"/>
-
-### [ CI/CD AND CONTAINERS ]
-
-<img src="https://skillicons.dev/icons?i=jenkins,maven,docker,kubernetes" alt="Jenkins, Maven, Docker and Kubernetes"/>
-
-### [ CLOUD AND AUTOMATION ]
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,python" alt="AWS, Terraform, Ansible and Python"/>
-
-### [ MONITORING ]
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana"/>
+| Technology       | Stack                                                                                                                                                                                                      |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Operating System | ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=00FF41)                                                                                                        |
+| Version Control  | ![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=00FF41)       |
+| Build Tool       | ![Maven](https://img.shields.io/badge/Maven-111111?style=flat-square\&logo=apachemaven\&logoColor=00FF41)                                                                                                  |
+| CI/CD            | ![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=flat-square\&logo=jenkins\&logoColor=00FF41)                                                                                                  |
+| Containers       | ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=00FF41)                                                                                                     |
+| Orchestration    | ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square\&logo=kubernetes\&logoColor=00FF41)                                                                                         |
+| Cloud            | ![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square\&logo=amazonaws\&logoColor=00FF41)                                                                                                        |
+| Scripting        | ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square\&logo=gnubash\&logoColor=00FF41) ![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=00FF41) |
 
 </div>
 
-```text
-[01] Linux          -> Commands, permissions, administration
-[02] Git/GitHub     -> Version control and source management
-[03] Maven          -> Java application builds
-[04] Jenkins        -> CI/CD pipelines
-[05] Docker         -> Images, containers, volumes
-[06] Kubernetes     -> Pods, Deployments, Services, storage
-[07] AWS            -> EC2, S3, EBS, VPC, IAM
-[08] Bash/Python    -> Scripting and automation
-```
-
-*Skill list reflects learning areas; update it as your experience grows.*
-
 ---
 
-## `root@akhil:~# ./projects.sh`
+### `root@akhil:~$ ./projects --list`
 
-### `01` — Jenkins CI/CD Pipeline
-
-```text
-Developer
-    |
-    v
-  GitHub
-    |
-    v
-  Jenkins
-    |
-    v
-   Maven
-    |
-    v
-  Build Artifact
-    |
-    v
-  Deployment
-```
-
-**Objective:** Understand the application build and deployment lifecycle.
-
-* Practiced GitHub integration with Jenkins.
-* Built Java applications using Maven.
-* Explored pipeline stages and build troubleshooting.
-
-**Stack:** `Git` `GitHub` `Jenkins` `Maven` `Linux`
-
-[EXPLORE MY REPOSITORIES](https://github.com/Akhil-25-07?tab=repositories)
-
-### `02` — Docker Web Application
+**01 // Containerized Web Application**
 
 ```bash
-docker build -t my-web-app .
-docker images
-docker run -d -p 8080:8080 --name web-app my-web-app
+docker build -t web-app .
+docker run -d -p 8080:8080 --name web-app web-app
 docker ps
 docker logs web-app
 ```
 
-**Objective:** Package and run a web application in a container.
+**Focus:** Dockerfiles, images, containers, port mapping, and application deployment.
 
-* Practiced writing Dockerfiles.
-* Created images and ran containers.
-* Configured port mappings and persistent volumes.
-
-**Stack:** `Docker` `Tomcat` `Linux`
-
-[EXPLORE MY REPOSITORIES](https://github.com/Akhil-25-07?tab=repositories)
-
-### `03` — Kubernetes Deployment
+**02 // Kubernetes Deployment Lab**
 
 ```bash
 kubectl apply -f deployment.yaml
@@ -138,103 +111,12 @@ kubectl get services
 kubectl rollout status deployment/d1
 ```
 
-**Objective:** Deploy and manage containerized applications.
+**Focus:** Deployments, ReplicaSets, Services, YAML, and persistent storage.
 
-* Created Pods, Deployments, and ReplicaSets.
-* Practiced ClusterIP and NodePort Services.
-* Learned persistent storage using PV and PVC.
-* Practiced rollout and rollback operations.
-
-**Stack:** `Kubernetes` `YAML` `kubectl`
-
-[EXPLORE MY REPOSITORIES](https://github.com/Akhil-25-07?tab=repositories)
-
-### `04` — AWS Infrastructure Labs
+**03 // Jenkins CI/CD Lab**
 
 ```text
-AWS CLOUD
-    |
-    +--- VPC
-    |     +--- Subnets
-    |     +--- Route Tables
-    |
-    +--- EC2
-    |     +--- Security Groups
-    |     +--- EBS
-    |
-    +--- S3
-    |
-    +--- Load Balancer
+GitHub --> Jenkins --> Maven --> Build Artifact --> Deployment
 ```
 
-**Objective:** Build practical knowledge of cloud infrastructure.
-
-* Launched EC2 instances.
-* Practiced EBS storage configuration.
-* Explored VPC networking and routing.
-* Configured security groups and load balancing.
-
-**Stack:** `AWS` `EC2` `EBS` `VPC` `S3`
-
-[EXPLORE MY REPOSITORIES](https://github.com/Akhil-25-07?tab=repositories)
-
-> Replace the generic repository links with direct links to your projects. Include only tasks you have actually completed.
-
----
-
-## `root@akhil:~# cat roadmap.txt`
-
-```text
-[✓] Linux Fundamentals
-[✓] Git and GitHub
-[✓] Shell Scripting Fundamentals
-[✓] Maven Fundamentals
-[✓] Jenkins Fundamentals
-[ ] Advanced Jenkins Pipelines
-[ ] Docker Project
-[ ] Kubernetes Project
-[ ] Terraform Automation
-[ ] Ansible Automation
-[ ] Prometheus and Grafana
-[ ] End-to-End DevOps Project
-```
-
----
-
-## `root@akhil:~# git status`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akhil-25-07&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="48%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-25-07&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="48%" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Akhil-25-07&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="75%" alt="Contribution streak"/>
-
-</div>
-
----
-
-## `root@akhil:~# ./connect.sh`
-
-```bash
-#!/bin/bash
-
-echo "Thanks for visiting my portfolio!"
-echo "GitHub: github.com/Akhil-25-07"
-echo "Learning never stops."
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Akhil-25-07)
-
-**AKHIL NAIDU | ASPIRING DEVOPS ENGINEER**
-
-`[ SYSTEM MESSAGE: KEEP LEARNING. KEEP BUILDING. ]`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00FF41" width="100%" alt="Green terminal divider"/>
-
-</div>
+**Focus:** Source code integration, automated builds, pipeline stages, and troubleshoo
