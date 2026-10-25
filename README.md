@@ -1,122 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=000000&text=AKHIL_NAIDU&fontColor=00FF41&fontSize=48&fontAlignY=50&animation=fadeIn" width="100%" alt="Akhil Naidu terminal portfolio"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:2563EB,100:22C55E" width="100%" alt="Blue and green accent"/>
 
-### `DEVOPS ENGINEER IN PROGRESS`
+# AKHIL NAIDU
 
-![Linux](https://img.shields.io/badge/Linux-00FF41?style=flat-square\&logo=linux\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-00FF41?style=flat-square\&logo=amazonaws\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-00FF41?style=flat-square\&logo=docker\&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00FF41?style=flat-square\&logo=kubernetes\&logoColor=black)
+### Aspiring DevOps Engineer | Cloud & Automation
 
-</div>
+*Building skills. Automating workflows. Deploying applications.*
 
----
-
-### `root@akhil:~$ ./initialize.sh`
-
-```text
-[ OK ] Initializing developer profile...
-[ OK ] Loading Linux environment...
-[ OK ] Connecting to cloud infrastructure...
-[ OK ] Starting automation engine...
-
-USER       : Akhil Naidu
-ROLE       : Aspiring DevOps Engineer
-EDUCATION  : B.Com Computers
-LOCATION   : Bengaluru, India
-MISSION    : Learn. Automate. Deploy. Repeat.
-
-STATUS     : ONLINE
-```
-
-### `root@akhil:~$ cat about.txt`
-
-I am an aspiring DevOps Engineer focused on Linux, cloud computing, CI/CD automation, and container orchestration.
-
-I enjoy learning by doing: running commands, troubleshooting errors, building infrastructure, and deploying applications.
-
-```bash
-while true; do
-    learn_something_new
-    build_a_project
-    solve_a_problem
-done
-```
-
----
-
-### `root@akhil:~$ ls /usr/local/skills`
-
-```text
-/usr/local/skills/
-├── linux/
-│   ├── commands
-│   ├── users-and-permissions
-│   └── shell-scripting
-├── version-control/
-│   ├── git
-│   └── github
-├── build-automation/
-│   └── maven
-├── ci-cd/
-│   └── jenkins
-├── containers/
-│   └── docker
-├── orchestration/
-│   └── kubernetes
-├── cloud/
-│   └── aws
-└── programming/
-    └── python
-```
-
-<div align="center">
-
-| Technology       | Stack                                                                                                                                                                                                      |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Operating System | ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=00FF41)                                                                                                        |
-| Version Control  | ![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=00FF41)       |
-| Build Tool       | ![Maven](https://img.shields.io/badge/Maven-111111?style=flat-square\&logo=apachemaven\&logoColor=00FF41)                                                                                                  |
-| CI/CD            | ![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=flat-square\&logo=jenkins\&logoColor=00FF41)                                                                                                  |
-| Containers       | ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=00FF41)                                                                                                     |
-| Orchestration    | ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square\&logo=kubernetes\&logoColor=00FF41)                                                                                         |
-| Cloud            | ![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square\&logo=amazonaws\&logoColor=00FF41)                                                                                                        |
-| Scripting        | ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square\&logo=gnubash\&logoColor=00FF41) ![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=00FF41) |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Akhil-25-07)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)](https://aws.amazon.com/)
 
 </div>
 
 ---
 
-### `root@akhil:~$ ./projects --list`
+## About Me
 
-**01 // Containerized Web Application**
+Hello! I'm **Akhil Naidu**, an aspiring DevOps Engineer with a background in B.Com Computers.
 
-```bash
-docker build -t web-app .
-docker run -d -p 8080:8080 --name web-app web-app
-docker ps
-docker logs web-app
-```
+I'm developing practical skills in Linux administration, cloud infrastructure, CI/CD pipelines, and container orchestration. I enjoy troubleshooting technical issues and learning by building hands-on projects.
 
-**Focus:** Dockerfiles, images, containers, port mapping, and application deployment.
+* **Current focus:** DevOps tools and cloud technologies
+* **Learning:** Automation, CI/CD, containers, and Kubernetes
+* **Goal:** Start my career as a DevOps Engineer
+* **Location:** Bengaluru, India
 
-**02 // Kubernetes Deployment Lab**
+---
 
-```bash
-kubectl apply -f deployment.yaml
-kubectl get deployments
-kubectl get pods
-kubectl get services
-kubectl rollout status deployment/d1
-```
+## Technical Skills
 
-**Focus:** Deployments, ReplicaSets, Services, YAML, and persistent storage.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**03 // Jenkins CI/CD Lab**
+### Cloud
 
-```text
-GitHub --> Jenkins --> Maven --> Build Artifact --> Deployment
-```
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square\&logo=amazonec2\&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
+![EBS](https://img.shields.io/badge/EBS-FF9900?style=flat-square)
 
-**Focus:** Source code integration, automated builds, pipeline stages, and troubleshoo
+### CI/CD & Build
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
+
+</td>
+<td width="50%" valign="top">
+
+### Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+
+### Operating System & Scripting
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=fla)
